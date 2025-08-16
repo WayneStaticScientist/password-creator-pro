@@ -1,4 +1,3 @@
-````markdown
 # Password-Creator-Pro
 
 Password-Creator-Pro is an open-source Python-based password generator by Openchains Technologies. It intelligently creates potential password combinations based on user-provided information.
@@ -32,4 +31,3 @@ Contributions are welcome! Feel free to submit pull requests or open issues.
 
 - [openchains.shop/contact](https://openchains.shop/contact)
 - +263787604187
-````
